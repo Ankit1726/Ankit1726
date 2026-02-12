@@ -15,8 +15,7 @@ If you're building something exciting or working on AI-driven ideas, let’s con
 - 💻 Preparing for AI & Software Engineering roles
 - 🤖 Building AI/ML projects in NLP, Computer Vision & Data Analysis
 - 🌐 Exploring Full Stack Python Development
-- 📊 Strong interest in Data Science & Analytics
-- 🧠 Practicing DSA for technical interviews
+- 📊 Strong interest in Data Science & Analytics.
 
 ---
 
@@ -45,7 +44,7 @@ If you're building something exciting or working on AI-driven ideas, let’s con
 Python | JavaScript  
 
 **AI / ML**  
-NumPy | Pandas | Matplotlib | Seaborn | Scikit-learn | PyTorch | GenAI | RAG  
+NumPy | Pandas | Matplotlib | Seaborn | Scikit-learn | PyTorch 
 
 **Web Development**  
 HTML | CSS | Flask | React | MongoDB | MySQL  
