@@ -67,5 +67,5 @@ Git | GitHub | VS Code | Jupyter Lab | Docker
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true" width="100%"/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Ankit1726&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
