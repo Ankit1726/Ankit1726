@@ -1,74 +1,69 @@
-<h1 align="center">Hi, I'm Ankit Gupta</h1>
-<h3 align="center">AI/ML Engineer (Fresher) | Python Developer</h3>
+<h1>Hi there, I'm <a href="https://your-portfolio-link.com/">Ankit Gupta</a> 💻 </h1>
 
-<p align="center">
-Focused on building practical AI systems and data-driven applications.
-</p>
+I'm an aspiring AI Engineer and Python Developer passionate about building intelligent systems and scalable applications.  
+Currently focused on Artificial Intelligence, Machine Learning, Data Science, and Full Stack Python Development.
 
----
+I love discussing tech, startups, finance, and AI innovation.  
+If you're building something exciting or working on AI-driven ideas, let’s connect!
 
-## 👨‍💻 About Me
-
-I’m a fresher AI/ML enthusiast with a strong foundation in Python, Machine Learning, and Data Analysis.  
-I enjoy turning data into insights and building intelligent systems that solve real-world problems.
-
-Currently:
-- Strengthening Machine Learning fundamentals
-- Building hands-on AI projects (NLP, CV, Data Analytics)
-- Practicing DSA for technical interviews
-- Exploring backend development with Python (Flask)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=4000&pause=1000&width=435&lines=AI+Engineer+in+Progress;Python+Developer;Building+Industry-Ready+Projects)](https://git.io/typing-svg)
 
 ---
 
-## 🚀 What I’m Working On
+### 📌 About Me
 
-- 🧠 Machine Learning models from scratch and using Scikit-learn
-- 📊 Data Analysis & Visualization projects
-- 🤖 Beginner-level GenAI & RAG-based applications
-- 🌐 Full Stack Python projects integrating AI models
+- 💻 Preparing for AI & Software Engineering roles
+- 🤖 Building AI/ML projects in NLP, Computer Vision & Data Analysis
+- 🌐 Exploring Full Stack Python Development
+- 📊 Strong interest in Data Science & Analytics
+- 🧠 Practicing DSA for technical interviews
 
 ---
 
-## 🛠 Tech Stack
+### 🌱 What I'm Passionate About
 
-### Programming
+- AI for Healthcare, Finance & Automation
+- Scalable Backend Systems
+- Clean, Optimized Code
+- Community Learning & Growth
+
+---
+
+### 🚀 Projects & Work
+
+- 🧠 Machine Learning Systems
+- 📊 Data Analysis (NumPy, Pandas, Matplotlib, Seaborn)
+- 🤖 GenAI & RAG Applications
+- 🌍 Full Stack Web Applications
+- 📈 End-to-End AI Projects
+
+---
+
+### 🛠 Tech Stack
+
+**Languages**  
 Python | JavaScript  
 
-### AI / ML & Data
-NumPy | Pandas | Matplotlib | Seaborn  
-Scikit-learn | PyTorch  
-Basic GenAI & RAG Concepts  
+**AI / ML**  
+NumPy | Pandas | Matplotlib | Seaborn | Scikit-learn | PyTorch | GenAI | RAG  
 
-### Web Development
-HTML | CSS | Flask  
-MongoDB | MySQL  
+**Web Development**  
+HTML | CSS | Flask | React | MongoDB | MySQL  
 
-### Tools
-Git | GitHub | VS Code | Jupyter Notebook | Docker (Basics)
+**Tools**  
+Git | GitHub | VS Code | Jupyter Lab | Docker  
 
 ---
 
-## 📚 Learning Focus
-
-- Deep Learning fundamentals
-- Model optimization techniques
-- Backend system design basics
-- Writing clean, production-style code
-
----
-
-## 📫 Connect With Me
+### 📫 Connect With Me
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/ankit-gupta-a43050251
 - 🌐 Portfolio: https://your-portfolio-link.com
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ankit1726&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit1726&theme=tokyonight&hide_border=true" width="48%" />
-
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit1726&theme=react-dark&hide_border=true" width="100%"/>
 
 <p align="center">
-  Building skills today to engineer intelligent systems tomorrow.
+  <img src="https://komarev.com/ghpvc/?username=Ankit1726&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
