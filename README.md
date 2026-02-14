@@ -12,10 +12,10 @@ If you're building something exciting or working on AI-driven ideas, let’s con
 
 ### 📌 About Me
 
-- 💻 Preparing for AI & Software Engineering roles
+- 💻 Preparing for AIML & Software Engineering roles
 - 🤖 Building AI/ML projects in NLP, Computer Vision & Data Analysis
-- 🌐 Exploring Full Stack Python Development
-- 📊 Strong interest in Data Science & Analytics.
+- 🌐 Exploring Full Stack Web Development
+- 📊 Strong interest in AIML.
 
 ---
 
