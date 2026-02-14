@@ -13,7 +13,7 @@ If you're building something exciting or working on AI-driven ideas, let’s con
 ### 📌 About Me
 
 - 💻 Preparing for AIML & Software Engineering roles
-- 🤖 Building AI/ML projects in NLP, Computer Vision & Data Analysis
+- 🤖 Building AI/ML projects in NLP | Computer Vision.
 - 🌐 Exploring Full Stack Web Development
 - 📊 Strong interest in AIML.
 
@@ -30,8 +30,8 @@ If you're building something exciting or working on AI-driven ideas, let’s con
 
 ### 🚀 Projects & Work
 
-- 🧠 Machine Learning Systems (Scikit Learn)
-- 💻 Deep Learning Systems (NLP)
+- 🧠 Machine Learning Systems (Framework:Scikit Learn)
+- 💻 Deep Learning Systems (Framework:Pytorch)
 - 📊 Data Analysis (NumPy, Pandas, Matplotlib, Seaborn)
 - 🤖 GenAI & RAG Applications
 - 🌍 Full Stack Web Applications
