@@ -1,7 +1,7 @@
 <h1>Hi there, I'm <a href="https://your-portfolio-link.com/">Ankit Gupta</a> 💻 </h1>
 
-I'm an aspiring AI Engineer and Python Developer passionate about building intelligent systems and scalable applications.  
-Currently focused on Artificial Intelligence, Machine Learning, Data Science, and Full Stack Python Development.
+I'm an aspiring AIML Engineer and Web Developer passionate about building intelligent systems and scalable applications.  
+Currently focused on Artificial Intelligence, Machine Learning, Deep Learning and Web Development.
 
 I love discussing tech, startups, finance, and AI innovation.  
 If you're building something exciting or working on AI-driven ideas, let’s connect!
