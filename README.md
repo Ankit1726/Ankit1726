@@ -30,7 +30,8 @@ If you're building something exciting or working on AI-driven ideas, let’s con
 
 ### 🚀 Projects & Work
 
-- 🧠 Machine Learning Systems
+- 🧠 Machine Learning Systems (Scikit Learn)
+- 💻 Deep Learning Systems (NLP)
 - 📊 Data Analysis (NumPy, Pandas, Matplotlib, Seaborn)
 - 🤖 GenAI & RAG Applications
 - 🌍 Full Stack Web Applications
@@ -47,7 +48,7 @@ Python | JavaScript
 NumPy | Pandas | Matplotlib | Seaborn | Scikit-learn | PyTorch 
 
 **Web Development**  
-HTML | CSS | Flask | React | MongoDB | MySQL  
+HTML | CSS | Flask | React | MongoDB | MySQL | ExpressJS 
 
 **Tools**  
 Git | GitHub | VS Code | Jupyter Lab | Docker  
