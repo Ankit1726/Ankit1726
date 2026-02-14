@@ -6,7 +6,7 @@ Currently focused on Artificial Intelligence, Machine Learning, Data Science, an
 I love discussing tech, startups, finance, and AI innovation.  
 If you're building something exciting or working on AI-driven ideas, let’s connect!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=4000&pause=1000&width=435&lines=AI+Engineer+in+Progress;Python+Developer;Building+Industry-Ready+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=4000&pause=1000&width=435&lines=AI+ML+Enthuastic+in+Progress;MERN+Developer;Building+Industry-Ready+Projects)](https://git.io/typing-svg)
 
 ---
 
