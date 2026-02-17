@@ -1,7 +1,7 @@
 <h1>Hi there, I'm <a href="https://your-portfolio-link.com/">Ankit Gupta</a> 💻 </h1>
 
 I'm an aspiring AIML Engineer and Web Developer passionate about building intelligent systems and scalable applications.  
-Currently focused on AIML| Deep Learning | RAG System | GenAI | Web Development.
+Currently focused on AIML| Deep Learning | RAG System | GenAI | Web Development With Python.
 
 I love discussing tech, startups, finance, and AI innovation.  
 If you're building something exciting or working on AI-driven ideas, let’s connect!
@@ -48,7 +48,7 @@ Python | JavaScript
 NumPy | Pandas | Matplotlib | Seaborn | Scikit-learn | PyTorch 
 
 **Web Development**  
-HTML | CSS | Flask | React | MongoDB | MySQL | ExpressJS 
+HTML | CSS | Flask | React | MongoDB | MySQL | Django
 
 **Tools**  
 Git | GitHub | VS Code | Jupyter Lab | Docker  
