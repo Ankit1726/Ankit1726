@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=ANKIT%20GUPTA&fontSize=32&fontColor=00F5A0&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:16213e&height=140&section=header&text=AI%20%7C%20ML%20%7C%20GENAI&fontSize=28&fontColor=00D9F5&animation=twinkling&fontAlignY=35"/>
 </p>
 
 <h1 align="center"> ANKIT GUPTA 💻</h1>
