@@ -1,108 +1,132 @@
 <h1 align="center">Hi 👋, I'm Ankit Gupta</h1>
-<h3 align="center">Aspiring AI/ML Engineer | Python Developer</h3>
+<h3 align="center">🚀 AI/ML Engineer | Python Developer | Building Real-World Intelligent Systems</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ankit-gupta-a43050251">🔗 LinkedIn</a>
+  <a href="https://your-portfolio-link.com/">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blue?style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/in/ankit-gupta-a43050251">
+    <img src="https://img.shields.io/badge/LinkedIn-Ankit%20Gupta-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer+in+Progress;Python+Developer;Building+Industry-Ready+Projects;GenAI+%7C+RAG+%7C+Deep+Learning" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-- 💻 Aspiring **AI/ML Engineer & Software Developer**
-- 🤖 Building projects in **Machine Learning, Deep Learning, NLP & Computer Vision**
-- 🌐 Exploring **Full Stack Development (MERN & Python)**
-- 📊 Passionate about solving real-world problems using AI
-- 🎯 Currently preparing for **AI/ML & Software Engineering roles**
+💡 Aspiring **AI/ML Engineer & Software Developer** focused on solving real-world problems using data and intelligent systems.
+
+- 🔭 Currently working on **AI/ML, Deep Learning & GenAI Projects**
+- 🤖 Hands-on with **NLP, Computer Vision & RAG Systems**
+- 🌐 Building **Full Stack Applications (Python + MERN)**
+- 📈 Preparing for **AI/ML & Software Engineering roles**
+- ⚡ Strong focus on **clean code, scalability, and performance**
 
 ---
 
-## 💡 What I Do
+## 🚀 What I Bring
 
-- Build **AI-powered applications**
-- Develop **end-to-end ML pipelines**
-- Work on **Generative AI & RAG systems**
-- Create **scalable web applications**
-- Focus on **clean and optimized code**
+✔️ End-to-End **AI System Development**  
+✔️ **Machine Learning → Deployment mindset**  
+✔️ Strong foundation in **DSA + Problem Solving**  
+✔️ Ability to build **scalable backend systems**  
+✔️ Real-world project experience (not just theory)
 
 ---
 
 ## 🛠 Tech Stack
 
-### 👨‍💻 Languages
-- Python  
-- JavaScript  
+### 👨‍💻 Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js" />
+</p>
 
-### 🤖 AI / ML
-- NumPy  
-- Pandas  
-- Matplotlib  
-- Seaborn  
-- Scikit-learn  
-- PyTorch  
+### 🤖 AI / ML  
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-### 🌐 Web Development
-- HTML  
-- CSS  
-- Flask    
-- FastAPI
-- Streamlit  
-- MongoDB  
-- MySQL  
+`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `PyTorch`
 
-### ⚙️ Tools
-- Git  
-- GitHub  
-- VS Code  
-- Jupyter Notebook  
-- Docker  
+### 🌐 Web Development  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,flask,django,mongodb,mysql" />
+</p>
+
+### ⚙️ Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+</p>
 
 ---
 
-## 🚀 Projects
+## 🔥 Featured Work
 
-- 🧠 Machine Learning Systems  
-- 🤖 Deep Learning Applications  
-- 📊 Data Analysis & Visualization  
-- 🔗 GenAI & RAG-based Apps  
-- 🌍 Python Web Applications  
-- 📈 End-to-End AI Projects  
-
----
-
-## 🌱 Interests
-
-- AI in Healthcare & Finance  
-- Generative AI & LLMs  
-- Scalable Systems Design  
-- Continuous Learning & Growth
-- Tech & AI Enthuastic 
+🚀 AI-Based Systems (Face Recognition, NLP Applications)  
+📊 Data Analysis & Visualization Pipelines  
+🤖 Deep Learning Models using PyTorch  
+🧠 GenAI & RAG-Based Applications  
+🌍 Full Stack AI Integrated Projects  
 
 ---
 
 ## 🎯 Career Objective
 
-Looking for opportunities as an **AI/ML Engineer** or **Python Developer (Fresher)** where I can contribute, learn, and grow by working on real-world impactful projects.
+Actively seeking opportunities as:
+
+👉 **AI/ML Engineer (Fresher)**  
+👉 **Python Developer**  
+👉 **Software Engineer**
+
+Looking to contribute to impactful projects while continuously learning and growing in a high-performance environment.
+
+---
+
+## 🌱 Interests
+
+- Generative AI & LLMs  
+- AI in Healthcare & Finance  
+- Scalable Backend Architecture  
+- Building Production-Ready Systems  
 
 ---
 
 ## 📫 Connect With Me
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/ankit-gupta-a43050251  
+<p align="center">
+  <a href="https://www.linkedin.com/in/ankit-gupta-a43050251">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge">
+  </a>
+</p>
+
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankit1726&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit1726&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit1726&theme=react-dark&hide_border=true" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ankit1726&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Ankit1726&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Positioning Statement
 
-I enjoy building AI systems that solve real-world problems and continuously improving my development skills 🚀
+> I build AI-powered systems that solve real problems, not just models that sit in notebooks.
+
+---
