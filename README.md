@@ -1,5 +1,5 @@
-<h1 align="center"> I am ANKIT GUPTA</h1>
-<h3 align="center">🚀 Python Developer & AI/ML Enthuastic
+<h1 align="center"> ANKIT GUPTA 💻</h1>
+<h3 align="center">Python Developer & AI/ML Enthuastic
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ankit-gupta-a43050251">
@@ -44,10 +44,10 @@
 
 ### 🤖 AI / ML  
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python,scikit-learn,PyTorch,LLM" />
 </p>
 
-`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `PyTorch`• `RAG System`• `Agentic AI`
+`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Machine Learning` • `Deep Learning`• `RAG System`• `Agentic AI`
 
 ### 🌐 Web Development  
 <p>
@@ -97,9 +97,6 @@ Looking to contribute to impactful projects while continuously learning and grow
   <a href="https://www.linkedin.com/in/ankit-gupta-a43050251">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge">
-  </a>
 </p>
 
 ---
@@ -123,7 +120,6 @@ Looking to contribute to impactful projects while continuously learning and grow
 
 ## ⚡ Positioning Statement
 
-> I build AI-powered systems that solve real problems, not just models that sit in notebooks.
-
+-- I build AI-powered systems that solve real problems, not just models that sit in notebooks.
 ---
-AIML Engineer World 💻
+### AIML Engineer World 💻
