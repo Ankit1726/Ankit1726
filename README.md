@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header&text=&fontSize=0"/>
+</p>
+
 <h1 align="center"> ANKIT GUPTA 💻</h1>
 <br>
 <h3 align="center">Python Developer & AI/ML Enthusiast</h3>
@@ -14,6 +18,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:00D9F5,100:A259FF&height=3&section=header&text=&fontSize=0" width="100%"/>
+</p>
+
 ## 🧠 About Me
 
 💡 Aspiring **AI/ML Engineer & Python Developer** focused on solving real-world problems using data and intelligent systems.
@@ -26,6 +34,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:00D9F5,100:A259FF&height=3&section=header&text=&fontSize=0" width="100%"/>
+</p>
+
 ## 🚀 What I Bring
 
 ✔️ End-to-End **AI System Development**  
@@ -35,6 +47,10 @@
 ✔️ Real-world project experience (not just theory)
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:00D9F5,100:A259FF&height=3&section=header&text=&fontSize=0" width="100%"/>
+</p>
 
 ## 🛠 Tech Stack
 
@@ -65,6 +81,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:00D9F5,100:A259FF&height=3&section=header&text=&fontSize=0" width="100%"/>
+</p>
+
 ## 🔥 Featured Work
 
 🚀 AI-Based Systems (Face Recognition, NLP Applications)  
@@ -74,6 +94,10 @@
 🌍 Full Stack AI Integrated Projects  
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:00D9F5,100:A259FF&height=3&section=header&text=&fontSize=0" width="100%"/>
+</p>
 
 ## 🎯 Career Objective
 
@@ -86,6 +110,10 @@ Looking to contribute to impactful projects while continuously learning and grow
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:00D9F5,100:A259FF&height=3&section=header&text=&fontSize=0" width="100%"/>
+</p>
+
 ## 🌱 Interests
 
 - Generative AI & LLMs  
@@ -94,6 +122,10 @@ Looking to contribute to impactful projects while continuously learning and grow
 - Building Production-Ready Systems  
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:00D9F5,100:A259FF&height=3&section=header&text=&fontSize=0" width="100%"/>
+</p>
 
 ## 📫 Connect With Me
 
@@ -104,6 +136,10 @@ Looking to contribute to impactful projects while continuously learning and grow
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:00D9F5,100:A259FF&height=3&section=header&text=&fontSize=0" width="100%"/>
+</p>
 
 ## 📊 GitHub Activity
 
@@ -121,6 +157,10 @@ Looking to contribute to impactful projects while continuously learning and grow
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:00D9F5,100:A259FF&height=3&section=header&text=&fontSize=0" width="100%"/>
+</p>
 
 ## ⚡ Positioning Statement
 I build AI-powered systems that solve real problems, not just models that sit in notebooks.
