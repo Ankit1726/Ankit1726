@@ -1,8 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=140&section=header&text=AI%2FML%20ENGINEER&fontSize=30&fontColor=00F5A0&animation=fadeIn&fontAlignY=35"/>
 </p>
----
 
+---
+<br>
 <h1 align="center"> ANKIT GUPTA 💻</h1>
 <h3 align="center">Python Developer & AI/ML Enthusiast</h3>
 
