@@ -1,6 +1,6 @@
 <h1 align="center"> ANKIT GUPTA 💻</h1>
 <br>
-<h3 align="center">Python Developer & AI/ML Enthuastic
+<h3 align="center">Python Developer & AI/ML Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ankit-gupta-a43050251">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer+in+Progress;Python+Developer;Building+Industry-Ready+Projects;GenAI+%7C+RAG+%7Agentic+AI+%7C" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer+in+Progress;Python+Developer;Building+Industry-Ready+Projects;GenAI+%7C+RAG+%7C+Agentic+AI" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
 
 💡 Aspiring **AI/ML Engineer & Python Developer** focused on solving real-world problems using data and intelligent systems.
 
-- 🔭 Currently working on **AI/ML | Deep Learning | GenAI & Agentic AI  Projects**
+- 🔭 Currently working on **AI/ML | Deep Learning | GenAI & Agentic AI Projects**
 - 🤖 Hands-on with **NLP, Computer Vision & RAG Systems**
 - 🌐 Building **AIML Applications (Python + FastAPI)**
 - 📈 Preparing for **AI/ML & Software Engineering roles**
@@ -45,22 +45,22 @@
 
 ### 🤖 AIML  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
-`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Machine Learning` • `Deep Learning`• `RAG System`• `Agentic AI`
+`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Machine Learning` • `Deep Learning` • `RAG Systems` • `Agentic AI`
 
 ### 🌐 Web Development  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,flask,fastapi,mongodb,mysql,flask" />
+  <img src="https://skillicons.dev/icons?i=html,css,flask,fastapi,mongodb,mysql" />
 </p>
 
 ### ⚙️ Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernatics" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes" />
 </p>
 
 ---
@@ -124,5 +124,5 @@ Looking to contribute to impactful projects while continuously learning and grow
 
 ## ⚡ Positioning Statement
 I build AI-powered systems that solve real problems, not just models that sit in notebooks.
----
+
 ### AIML Engineer World 💻
