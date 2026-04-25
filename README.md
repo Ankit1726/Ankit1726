@@ -1,28 +1,25 @@
-<h1 align="center">Hi 👋, I'm Ankit Gupta</h1>
-<h3 align="center">🚀 AI/ML Engineer | Python Developer | Building Real-World Intelligent Systems</h3>
+<h1 align="center"> I am ANKIT GUPTA</h1>
+<h3 align="center">🚀 Python Developer & AI/ML Enthuastic
 
 <p align="center">
-  <a href="https://your-portfolio-link.com/">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blue?style=for-the-badge">
-  </a>
   <a href="https://www.linkedin.com/in/ankit-gupta-a43050251">
     <img src="https://img.shields.io/badge/LinkedIn-Ankit%20Gupta-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer+in+Progress;Python+Developer;Building+Industry-Ready+Projects;GenAI+%7C+RAG+%7C+Deep+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer+in+Progress;Python+Developer;Building+Industry-Ready+Projects;GenAI+%7C+RAG+%7C+Deep+Learning+AgenticAI" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-💡 Aspiring **AI/ML Engineer & Software Developer** focused on solving real-world problems using data and intelligent systems.
+💡 Aspiring **AI/ML Engineer & Python Developer** focused on solving real-world problems using data and intelligent systems.
 
-- 🔭 Currently working on **AI/ML, Deep Learning & GenAI Projects**
+- 🔭 Currently working on **AI/ML | Deep Learning | GenAI & Agentic AI  Projects**
 - 🤖 Hands-on with **NLP, Computer Vision & RAG Systems**
-- 🌐 Building **Full Stack Applications (Python + MERN)**
+- 🌐 Building **AIML Applications (Python + FastAPI)**
 - 📈 Preparing for **AI/ML & Software Engineering roles**
 - ⚡ Strong focus on **clean code, scalability, and performance**
 
@@ -32,7 +29,7 @@
 
 ✔️ End-to-End **AI System Development**  
 ✔️ **Machine Learning → Deployment mindset**  
-✔️ Strong foundation in **DSA + Problem Solving**  
+✔️ Foundation in **DSA + Problem Solving**  
 ✔️ Ability to build **scalable backend systems**  
 ✔️ Real-world project experience (not just theory)
 
@@ -50,16 +47,16 @@
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `PyTorch`
+`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `PyTorch`• `RAG System`• `Agentic AI`
 
 ### 🌐 Web Development  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,flask,django,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,flask,fastapi,mongodb,mysql,flask" />
 </p>
 
 ### ⚙️ Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernatics" />
 </p>
 
 ---
@@ -80,7 +77,6 @@ Actively seeking opportunities as:
 
 👉 **AI/ML Engineer (Fresher)**  
 👉 **Python Developer**  
-👉 **Software Engineer**
 
 Looking to contribute to impactful projects while continuously learning and growing in a high-performance environment.
 
@@ -130,3 +126,4 @@ Looking to contribute to impactful projects while continuously learning and grow
 > I build AI-powered systems that solve real problems, not just models that sit in notebooks.
 
 ---
+AIML Engineer World 💻
