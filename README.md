@@ -1,5 +1,5 @@
 <h1 align="center"> ANKIT GUPTA 💻</h1>
-
+<br>
 <h3 align="center">Python Developer & AI/ML Enthuastic
 
 <p align="center">
@@ -43,9 +43,12 @@
   <img src="https://skillicons.dev/icons?i=python,js" />
 </p>
 
-### 🤖 AI / ML  
+### 🤖 AIML  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,scikit-learn,PyTorch,LLM" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
 `NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Machine Learning` • `Deep Learning`• `RAG System`• `Agentic AI`
@@ -120,7 +123,6 @@ Looking to contribute to impactful projects while continuously learning and grow
 ---
 
 ## ⚡ Positioning Statement
-
--- I build AI-powered systems that solve real problems, not just models that sit in notebooks.
+I build AI-powered systems that solve real problems, not just models that sit in notebooks.
 ---
 ### AIML Engineer World 💻
