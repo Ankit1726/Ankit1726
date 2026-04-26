@@ -68,7 +68,7 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
-`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Machine Learning` • `Deep Learning` • `RAG Systems` • `Agentic AI`
+`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Machine Learning` • `Deep Learning` • `RAG` • `Agentic AI`
 
 ### 🌐 Web Development  
 <p>
