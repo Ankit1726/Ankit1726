@@ -60,7 +60,7 @@
   <img src="https://skillicons.dev/icons?i=python,js" />
 </p>
 
-### 🤖 AIML  
+### 🤖 AI/ML Stack
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
 </p>
