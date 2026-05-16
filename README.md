@@ -5,7 +5,7 @@
 ---
 <br>
 <h1 align="center"> ANKIT GUPTA 💻</h1>
-<h3 align="center">Python Developer & AI/ML Enthusiast</h3>
+<h3 align="center">Python Developer & AI/ML Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ankit-gupta-a43050251">
