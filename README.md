@@ -146,9 +146,12 @@ Looking to contribute to impactful projects while continuously learning and grow
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit1726&layout=compact&theme=tokyonight&hide_border=true"
-    width="55%"
-    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api?username=Ankit1726&show_icons=true&theme=tokyonight&hide_border=true"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=Ankit1726&theme=tokyonight"
+    width="48%"
   />
 </p>
 
