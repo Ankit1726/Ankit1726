@@ -145,13 +145,37 @@ Looking to contribute to impactful projects while continuously learning and grow
 ## 📊 GitHub Activity
 
 <p align="center">
+  <!-- GitHub profile stats -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Ankit1726&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"
-    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=Ankit1726
+          &show_icons=true
+          &theme=dark
+          &hide_border=true
+          &bg_color=0D1117
+          &title_color=00D9F5
+          &icon_color=00D9F5
+          &text_color=FFFFFF"
+    width="48%"
+    alt="Ankit Gupta GitHub stats"
   />
+
+  <!-- GitHub streak stats (stable endpoint) -->
   <img
-    src="https://streak-stats.demolab.com/?user=Ankit1726&theme=tokyonight&hide_border=true&background=0D1117"
-    width="49%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit1726
+          &theme=dark
+          &hide_border=true
+          &background=0D1117
+          &border=00D9F5
+          &stroke=00D9F5
+          &ring=00D9F5
+          &fire=00D9F5
+          &currStreakLabel=00D9F5
+          &currStreakNum=00D9F5
+          &sideNums=00D9F5
+          &sideLabels=00D9F5
+          &dates=00D9F5"
+    width="48%"
+    alt="Ankit Gupta GitHub streak"
   />
 </p>
 
