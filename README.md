@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=140&section=header&text=AI%2FML%20ENGINEER&fontSize=30&fontColor=00F5A0&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=140&section=header&text=AI+Backend%20ENGINEER&fontSize=30&fontColor=00F5A0&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 ---
 <br>
-<h1 align="center"> ANKIT GUPTA 💻</h1>
-<h3 align="center">Python Developer & AI/ML Engineer</h3>
+<h1 align="center"> 💻 ANKIT GUPTA </h1>
+<h3 align="center">AI Backend Engineer & AIML Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ankit-gupta-a43050251">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer+in+Progress;Python+Developer;Building+Industry-Ready+Projects;GenAI+%7C+RAG+%7C+Agentic+AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer+in+Progress;AI+Backend+Engineer;Building+Industry-Ready+Projects;GenAI+%7C+RAG+%7C+Agentic+AI" />
 </p>
 
 ---
@@ -25,12 +25,12 @@
 
 ## 🧠 About Me
 
-💡 Aspiring **AI/ML Engineer & Python Developer** focused on solving real-world problems using data and intelligent systems.
+💡 Aspiring **AIML Engineer & AI Backend Developer** focused on solving real-world problems using data and intelligent systems.
 
-- 🔭 Currently working on **AI/ML | Deep Learning | GenAI & Agentic AI Projects**
-- 🤖 Hands-on with **NLP, Computer Vision & RAG Systems**
+- 🔭 Currently working on **AIML | Deep Learning | GenAI & Agentic AI Projects**
+- 🤖 Hands-on with **NLP | RAG | Agentic AI Systems**
 - 🌐 Building **AIML Applications (Python + FastAPI)**
-- 📈 Preparing for **AI/ML & Software Engineering roles**
+- 📈 Preparing for **AIML & AI Backend Engineering roles**
 - ⚡ Strong focus on **clean code, scalability, and performance**
 
 ---
