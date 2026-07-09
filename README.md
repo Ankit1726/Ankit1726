@@ -105,9 +105,9 @@
 Actively seeking opportunities as:
 
 👉 **AI/ML Engineer (Fresher)**  
-👉 **Python Developer**  
+👉 **AI Backend Engineer / Python Developer**
 
-Looking to contribute to impactful projects while continuously learning and growing in a high-performance environment.
+Looking to contribute to impactful AI-driven backend systems while continuously learning and growing in a high-performance engineering environment.
 
 ---
 
@@ -150,7 +150,7 @@ Looking to contribute to impactful projects while continuously learning and grow
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit1726&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit1726&bg_color=0D1117&color=00D9F5&line=00D9F5&point=ffffff&area=true&hide_border=true" width="100%"/>
 </p>
 
 <p align="center">
@@ -166,4 +166,10 @@ Looking to contribute to impactful projects while continuously learning and grow
 ## ⚡ Positioning Statement
 I build AI-powered systems that solve real problems, not just models that sit in notebooks.
 
-### AIML & Data Science World 💻
+<div align="center">
+
+### Thanks for stopping by — always open to conversations around AI/ML and backend engineering roles. 🚀
+
+**— Ankit Gupta**
+
+</div>
