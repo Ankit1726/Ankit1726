@@ -146,8 +146,7 @@ Looking to contribute to impactful projects while continuously learning and grow
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.vercel.app/api?username=Ankit1726&show_icons=true&theme=tokyonight&hide_border=true"
-    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=Ankit1726&show_icons=true&theme=tokyonight&hide_border=true"
   />
   <img
     src="https://github-readme-streak-stats-eight.vercel.app/?user=Ankit1726&theme=tokyonight"
