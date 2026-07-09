@@ -128,20 +128,6 @@ Looking to contribute to impactful projects while continuously learning and grow
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:00D9F5,100:A259FF&height=3&section=header&text=&fontSize=0" width="100%"/>
 </p>
 
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ankit-gupta-a43050251">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:00D9F5,100:A259FF&height=3&section=header&text=&fontSize=0" width="100%"/>
-</p>
-
 ## 📊 GitHub Activity
 
 <p align="center">
