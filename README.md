@@ -150,6 +150,11 @@ Looking to contribute to impactful projects while continuously learning and grow
     width="48%"
     alt="GitHub Stats"
   />
+  <img
+    src="https://streak-stats.demolab.com?user=Ankit1726&theme=tokyonight&hide_border=true&v=2"
+    width="48%"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
