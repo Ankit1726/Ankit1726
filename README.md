@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=140&section=header&text=AI%2+ML%20ENGINEER&fontSize=30&fontColor=00F5A0&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=140&section=header&text=AI%2FML%20ENGINEER&fontSize=30&fontColor=00F5A0&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 ---
@@ -146,14 +146,14 @@ Looking to contribute to impactful projects while continuously learning and grow
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Ankit1726&show_icons=true&theme=tokyonight&hide_border=true&v=2"
+    src="https://github-readme-stats.vercel.app/api?username=Ankit1726&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     width="48%"
-    alt="GitHub Stats"
+    alt="Ankit's GitHub Stats"
   />
   <img
-    src="https://streak-stats.demolab.com?user=Ankit1726&theme=tokyonight&hide_border=true&v=2"
+    src="https://streak-stats.demolab.com?user=Ankit1726&theme=tokyonight&hide_border=true"
     width="48%"
-    alt="GitHub Streak"
+    alt="Ankit's GitHub Streak"
   />
 </p>
 
