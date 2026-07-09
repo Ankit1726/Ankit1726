@@ -173,9 +173,8 @@ Looking to contribute to impactful projects while continuously learning and grow
 
 ## ⚡ Positioning Statement
 - ***I build AI-powered systems that solve real problems, not just models that sit in notebooks.***
-- 
 ---
-<p> align="center">
+<p align="center"> 
   <b>AI Backend Developer & AIML Engineer</b>
 </p>
 
