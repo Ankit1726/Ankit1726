@@ -131,15 +131,6 @@ Looking to contribute to impactful projects while continuously learning and grow
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ankit1726&show_icons=true&theme=react&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit1726&layout=compact&theme=react&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit1726&theme=react&hide_border=true" width="49%"/>
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ankit1726&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" />
 </p>
 
