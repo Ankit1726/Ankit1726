@@ -151,5 +151,4 @@ Looking to contribute to impactful projects while continuously learning and grow
   <b> 📊 AI Backend Developer & AIML Engineer  📊</b>
 </p>
 
----
-take his ishmi working m mhi h last m suhko upafted kro chao toh kuh adding bhi lrdo thoda gancy type me jo thk lge
+--- 
