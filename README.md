@@ -122,17 +122,11 @@ Looking to contribute to impactful projects while continuously learning and grow
 - Scalable Backend Architecture  
 - Building Production-Ready Systems  
 
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:00D9F5,100:A259FF&height=3&section=header&text=&fontSize=0" width="100%"/>
 </p>
 
 ## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ankit1726&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ankit1726&label=Profile%20Views&color=00F5A0&style=for-the-badge" />
