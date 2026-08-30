@@ -141,6 +141,10 @@ Looking to contribute to impactful projects while continuously learning and grow
 <br><br>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ankit1726&label=Profile%20Views&color=00F5A0&style=for-the-badge" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:00D9F5,100:A259FF&height=3&section=header&text=&fontSize=0" width="100%"/>
 </p>
 
