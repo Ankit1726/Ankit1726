@@ -39,12 +39,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:00D9F5,100:A259FF&height=3&section=header&text=&fontSize=0" width="100%"/>
 </p>
 
-
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:00D9F5,100:A259FF&height=3&section=header&text=&fontSize=0" width="100%"/>
-</p>
 
 ## 🚀 What I Bring
 
@@ -111,8 +106,9 @@
 
 Actively seeking opportunities as:
 
-👉 **AI/ML Engineer (Fresher)**  
-👉 **AI Backend Developer**  
+👉 ***AI/ML Engineer*** 
+👉 **Data Scientist*** 
+👉 ***AI Backend Developer***  
 
 Looking to contribute to impactful projects while continuously learning and growing in a high-performance environment.
 
@@ -142,14 +138,14 @@ Looking to contribute to impactful projects while continuously learning and grow
 <img src="https://github-readme-stats.vercel.app/api?username=Ankit1726&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=Ankit1726&theme=tokyonight&hide_border=true" width="48%" />
 
-<br>
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit1726&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit1726&theme=tokyo-night&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit1726 & layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit1726 & theme=tokyo-night&hide_border=true" width="48%" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ankit1726&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Ankit1726 & theme=tokyonight&no-frame=true&row=1&column=7" width="95%" />
 </div>
 
 ## 👀 Profile Views
