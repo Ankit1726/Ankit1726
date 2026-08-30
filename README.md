@@ -4,8 +4,8 @@
 
 ---
 <br>
-<h1 align="center"> 💻 ANKIT GUPTA </h1>
-<h3 align="center">AI Backend Developer & AIML Engineer</h3>
+<h1 align="center"> ***💻 ANKIT GUPTA***</h1>
+<h3 align="center">***AI Backend Developer & AIML Engineer 🧠***</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ankit-gupta-a43050251">
@@ -129,7 +129,7 @@ Looking to contribute to impactful projects while continuously learning and grow
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ankit1726&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+### <img src="https://github-readme-stats.vercel.app/api?username=Ankit1726&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=Ankit1726&theme=tokyonight&hide_border=true" width="48%" />
 
 <br><br>
