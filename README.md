@@ -140,15 +140,13 @@ Looking to contribute to impactful projects while continuously learning and grow
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit1726 & layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit1726 & theme=tokyo-night&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit1726&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit1726&theme=tokyo-night&hide_border=true" width="48%" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ankit1726 & theme=tokyonight&no-frame=true&row=1&column=7" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Ankit1726&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" />
 </div>
-
-## 👀 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ankit1726&label=Profile%20Views&color=00F5A0&style=for-the-badge" />
