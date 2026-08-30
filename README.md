@@ -23,7 +23,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:00D9F5,100:A259FF&height=3&section=header&text=&fontSize=0" width="100%"/>
 </p>
 
-## 🧠 About Me
+## ***About Me 😊***
 
 💡 Aspiring **AIML Engineer & AI Backend Developer** focused on solving real-world problems using data and intelligent systems.
 
@@ -41,7 +41,7 @@
 
 ---
 
-## 🚀 What I Bring
+## ***What I Bring 🌐***
 
 ✔️ End-to-End **AI System Development**  
 ✔️ **Machine Learning → Deployment mindset**  
@@ -55,14 +55,14 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:00D9F5,100:A259FF&height=3&section=header&text=&fontSize=0" width="100%"/>
 </p>
 
-## 🛠 Tech Stack
+##  ***Tech Stack 🧠***
 
-### 👨‍💻 Languages  
+### ***👨‍💻 Languages***  
 <p>
   <img src="https://skillicons.dev/icons?i=python,js" />
 </p>
 
-### 🤖 AI/ML Stack
+### ***🤖 AI/ML Stack***
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
 </p>
@@ -72,12 +72,12 @@
 
 `NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Machine Learning` • `Deep Learning` • `RAG` • `Agentic AI`
 
-### 🌐 Web Development  
+### ***🌐 Web Development***  
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,flask,fastapi,mongodb,mysql" />
 </p>
 
-### ⚙️ Tools  
+### ***⚙️ Tools***  
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes" />
 </p>
@@ -88,7 +88,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:00D9F5,100:A259FF&height=3&section=header&text=&fontSize=0" width="100%"/>
 </p>
 
-## 🔥 Featured Work
+## ***🔥 Featured Work***
 
 🚀 AI-Based Systems (Face Recognition, NLP Applications)  
 📊 Data Analysis & Visualization Pipelines  
@@ -102,7 +102,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:00D9F5,100:A259FF&height=3&section=header&text=&fontSize=0" width="100%"/>
 </p>
 
-## 🎯 Career Objective
+## ***🎯 Career Objective***
 
 Actively seeking opportunities as:
 
@@ -118,7 +118,7 @@ Looking to contribute to impactful projects while continuously learning and grow
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:00D9F5,100:A259FF&height=3&section=header&text=&fontSize=0" width="100%"/>
 </p>
 
-## 🌱 Interests
+## ***🌱 Interests***
 
 - Generative AI & LLMs  
 - AI in Healthcare & Finance  
@@ -131,7 +131,7 @@ Looking to contribute to impactful projects while continuously learning and grow
 
 ---
 
-## 📊 GitHub Stats & Activity
+## ***📊 GitHub Stats & Activity***
 
 <div align="center">
 
@@ -139,14 +139,6 @@ Looking to contribute to impactful projects while continuously learning and grow
 <img src="https://streak-stats.demolab.com/?user=Ankit1726&theme=tokyonight&hide_border=true" width="48%" />
 
 <br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit1726&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit1726&theme=tokyo-night&hide_border=true" width="48%" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ankit1726&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" />
-</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ankit1726&label=Profile%20Views&color=00F5A0&style=for-the-badge" />
@@ -158,12 +150,12 @@ Looking to contribute to impactful projects while continuously learning and grow
 
 --- 
 
-## ⚡ Positioning Statement
+## ***⚡ Positioning Statement***
 - ***I build AI-powered systems that solve real problems, not just models that sit in notebooks.***
   
 ---
 <p align="center"> 
-  <b> 📊 AI Backend Developer & AIML Engineer  📊</b>
+  <b>***📊 AI Backend Developer & AIML Engineer  📊***</b>
 </p>
 
 <p align="center">
