@@ -39,8 +39,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:00D9F5,100:A259FF&height=3&section=header&text=&fontSize=0" width="100%"/>
 </p>
 
----
-
 ## ***What I Bring 🌐***
 
 ✔️ End-to-End **AI System Development**  
@@ -55,7 +53,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:00D9F5,100:A259FF&height=3&section=header&text=&fontSize=0" width="100%"/>
 </p>
 
-##  ***Tech Stack 🧠***
+## ***Tech Stack 🧠***
 
 ### ***👨‍💻 Languages***  
 <p>
@@ -106,8 +104,8 @@
 
 Actively seeking opportunities as:
 
-👉 ***AI/ML Engineer*** 
-👉 **Data Scientist*** 
+👉 ***AI/ML Engineer***  
+👉 ***Data Scientist***  
 👉 ***AI Backend Developer***  
 
 Looking to contribute to impactful projects while continuously learning and growing in a high-performance environment.
@@ -125,36 +123,34 @@ Looking to contribute to impactful projects while continuously learning and grow
 - Scalable Backend Architecture  
 - Building Production-Ready Systems  
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:00D9F5,100:A259FF&height=3&section=header&text=&fontSize=0" width="100%"/>
-</p>
-
 ---
 
 ## ***📊 GitHub Stats & Activity***
 
 <div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=Ankit1726&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=Ankit1726&theme=tokyonight&hide_border=true" width="48%" />
-  
+
 <br><br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ankit1726&label=Profile%20Views&color=00F5A0&style=for-the-badge" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Ankit1726&label=Profile%20Views&color=00F5A0&style=for-the-badge" />
+
+</div>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:00D9F5,100:A259FF&height=3&section=header&text=&fontSize=0" width="100%"/>
 </p>
 
---- 
-
 ## ***⚡ Positioning Statement***
-- ***I build AI-powered systems that solve real problems, not just models that sit in notebooks.***
-  
+***I build AI-powered systems that solve real problems, not just models that sit in notebooks.***
+
 ---
+
 <p align="center"> 
-  <b>***📊 AI Backend Developer & AIML Engineer  📊***</b>
+  <b>📊 AI Backend Developer & AIML Engineer 📊</b>
 </p>
 
 <p align="center">
