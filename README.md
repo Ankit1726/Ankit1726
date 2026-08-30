@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;AI+Backend+Developer;Building+Industry-Ready+Projects;GenAI+%7C+RAG+%7C+Agentic+AI;Data+Science+and+Data+Analysis" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;AI+Backend+Developer;Building+Industry-Ready+Projects;GenAI+%7C+RAG+%7C+Agentic+AI;DataScience+and+DataAnalysis" />
 </p>
 
 ---
