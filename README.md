@@ -148,7 +148,7 @@ Looking to contribute to impactful projects while continuously learning and grow
 
 ---
 
-### Portfolio Link🌐👉 https://ankiportfolio.netlify.app
+### ***Portfolio Link 🌐***👉 [Portfolio](https://ankiportfolio.netlify.app)
 
 --- 
 
